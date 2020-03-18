@@ -1,0 +1,49 @@
+body{
+    background-color: #f0e3ff;
+    color: #313446;
+    font-family: 'PT Sans', sans-serif;
+    
+}
+hr{
+    border: 5px dashed #313446;
+    width: 1.5rem;
+    border-bottom: 0;
+    margin-top: 5rem;
+    margin-bottom: 4rem;
+}
+
+.cv-head{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 4.3rem;
+    font-weight:bold;
+    color: #313446;
+    margin-top: 5rem;
+    margin-bottom: 4rem;
+    
+}
+.font--size{
+    font-size: 1rem;
+    font-weight: bold;
+}
+.Tfont--size{
+    font-size: 2rem;
+    font-weight: bolder;
+}
+.cv-skills{
+    border:3px solid aliceblue;
+    z-index: 1;
+    width: 70%;
+    margin: 1rem auto 1rem auto;
+    background-color: aliceblue;
+    border-radius: 0.4rem;
+    
+}
+.nav-img{
+    margin-right: 3px;
+}
+.cv-contact{
+    background-color: #313446;
+    margin-top: 4rem;
+    padding: 4rem;
+    color: #f0e3ff;
+}
